@@ -8,10 +8,18 @@ description: Frequently Asked Questions about Extensions.
 Frequently Asked Questions about Extensions.
 
 ## What are some recommended extensions and sources?
-Aniyomi is bring-your-own-content and does not offer anything.
+Manga sources are maintained by Keiyoushi, and anime sources are maintained by the community and tracked on Wotaku.
+
+::: tip Manga (Keiyoushi)
+Browse available manga sources at the [Keiyoushi Extensions Catalog](https://keiyoushi.github.io/extensions/).
+:::
+
+::: tip Anime (Wotaku)
+Find community anime sources at the [Wotaku Aniyomi Wiki](https://wotaku.wiki/ext/aniyomi).
+:::
 
 ::: info Disclaimer
-**Aniyomi** isn't responsible for slow, down, missing chapters/episodes, or subpar image/video quality of sources as it doesn't host content.
+Aniyomi does not host any content. Extensions are third-party software that connect directly to external websites.
 :::
 
 ## Enabling third-party installations

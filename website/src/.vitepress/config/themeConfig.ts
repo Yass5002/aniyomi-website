@@ -18,7 +18,7 @@ const themeConfig: DefaultTheme.Config = {
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/aniyomiorg/aniyomi',
+      link: 'https://github.com/Yass5002/aniyomi-fork',
       ariaLabel: 'Project GitHub',
     },
     {
@@ -34,7 +34,7 @@ const themeConfig: DefaultTheme.Config = {
   },
 
   editLink: {
-    pattern: 'https://github.com/aniyomiorg/aniyomi-website/edit/master/website/src/:path',
+    pattern: 'https://github.com/Yass5002/aniyomi-website/edit/master/website/src/:path',
     text: 'Help us improve this page',
   },
 

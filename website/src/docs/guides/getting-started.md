@@ -32,20 +32,35 @@ See the local source guides for instructions:
 - [Manga](/docs/guides/local-manga-source/)
 - [Anime](/docs/guides/local-anime-source/)
 
-== External repositories
-External repositories add additional sources to **Aniyomi**. You can add external repositories by going to <nav to="browse"> and tapping **Anime/Manga extension repos**.
+== Manga (Keiyoushi)
+Keiyoushi is the primary community extension repository for manga sources.
 
-Once there, you can add repositories by inputting URLs ending with `index.min.json`.
-
-::: danger Caution
-Aniyomi will not provide resources for any unofficial repositories. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
+::: tip One-Click Add
+[Add Keiyoushi Manga Repository](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
 :::
 
-Once you've added a repository, go to <nav to="extensions"> and refresh the extensions list.
+::: info Repository URL
+`https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json`
+:::
 
-You can now tap the download button next to extensions to install them.
+To add manually: Go to **Settings -> Browse -> Manga extension repos**, tap the add icon, and paste the URL above.
 
-> You may need to [enable third-party installations](/docs/faq/browse/extensions#enabling-third-party-installations).
+Visit the [Keiyoushi Extensions Catalog](https://keiyoushi.github.io/extensions/) to view all available sources.
+
+== Anime (Wotaku / Community)
+Anime sources are maintained by the community and indexed on the Wotaku Wiki.
+
+::: tip One-Click Add
+[Add Anime Repository](aniyomi://add-repo?url=https://raw.githubusercontent.com/MR-Goldenyt/AniyomiExtensionsRevived/main/index.json)
+:::
+
+::: info Repository URL
+`https://raw.githubusercontent.com/MR-Goldenyt/AniyomiExtensionsRevived/main/index.json`
+:::
+
+To add manually: Go to **Settings -> Browse -> Anime extension repos**, tap the add icon, and paste the URL above.
+
+Visit the [Wotaku Aniyomi Wiki](https://wotaku.wiki/ext/aniyomi) to find more community anime repositories and updates.
 
 == Manual extensions
 Extensions can be manually installed through `.apk` files.

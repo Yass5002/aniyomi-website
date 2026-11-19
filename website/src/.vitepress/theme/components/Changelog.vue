@@ -34,7 +34,7 @@ const changelog = computed(() => {
   <div class="fullChangelog">
     <p>
       View the full release
-      <a href="https://github.com/aniyomiorg/aniyomi/releases/latest" target="_blank" rel="noopener">
+      <a href="https://github.com/Yass5002/aniyomi-fork/releases/latest" target="_blank" rel="noopener">
         here
       </a>
     </p>
